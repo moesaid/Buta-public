@@ -4,7 +4,7 @@ Last updated January 30, 2021
 
 
 
-Thank you for choosing to be part of our community at Waqto ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at masedup@gmail.com.
+Thank you for choosing to be part of our community at Waqto ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at info@buta.com.
 
 When you use our mobile application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
@@ -143,7 +143,7 @@ We have implemented appropriate technical and organizational security measures d
 
 In Short:  We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the App, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the App. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at masedup@gmail.com.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the App, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the App. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at info@buta.com.
 
 11. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -264,7 +264,7 @@ How do we use and share your personal information?
 
 More information about our data collection and sharing practices can be found in this privacy notice.
 
-You may contact us by email at masedup@gmail.com, or by referring to the contact details at the bottom of this document.
+You may contact us by email at info@buta.com, or by referring to the contact details at the bottom of this document.
 
 If you are using an authorized agent to exercise your right to opt-out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -309,7 +309,7 @@ you may object to the processing of your personal data
 you may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the data
 you can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
 you may request to opt-out from future selling of your personal information to third parties. Upon receiving a request to opt-out, we will act upon the request as soon as feasibly possible, but no later than 15 days from the date of the request submission.
-To exercise these rights, you can contact us by email at masedup@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at info@buta.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 Financial Incentives
 
@@ -322,7 +322,7 @@ We may decide to offer a financial incentive (e.g. price or service difference) 
 
 If we decide to offer a financial incentive, we will notify you of such financial incentive and explain the price difference, as well as material terms of the financial incentive or price of service difference, including the categories of personal information that are implicated by the financial incentive or price or service difference.
 
-If you choose to participate in the financial incentive you can withdraw from the financial incentive at any time by emailing us at masedup@gmail.com, or by referring to the contact details at the bottom of this document.
+If you choose to participate in the financial incentive you can withdraw from the financial incentive at any time by emailing us at info@buta.com, or by referring to the contact details at the bottom of this document.
 
 14. DO WE MAKE UPDATES TO THIS NOTICE?     
 
@@ -332,7 +332,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?     
 
-If you have questions or comments about this notice, you may email us at masedup@gmail.com or by post to:
+If you have questions or comments about this notice, you may email us at info@buta.com or by post to:
 
 Waqto
 301 midland ave
@@ -341,4 +341,4 @@ United States
 
 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please visit: masedup@gmail.com. We will respond to your request within 30 days.
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please visit: info@buta.com. We will respond to your request within 30 days.
